@@ -1,6 +1,4 @@
-# Localization for Avatar Website
-
-Thank you for contributing to the localization of our website! 
+# Thank you for contributing to the localization of our website! 
 
 ## How to Contribute
 1. Fork this repository.
